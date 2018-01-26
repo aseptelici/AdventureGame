@@ -1,7 +1,7 @@
 /*
 *	Hero PROGRAM
 *
-*	Program that generates holds items for
+*	Program that generates and holds items for
 *	the hero(user) for Adventure Game program.
 *
 *	ANDREEA PERRY-GARDNER
